@@ -1,2 +1,2 @@
 # AI_Projects
-Small projects in AI, ML &amp; DNN 
+Small projects on AI, ML &amp; DNN 
